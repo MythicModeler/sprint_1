@@ -1,0 +1,5 @@
+setup.py
+bloomdata.egg-info/PKG-INFO
+bloomdata.egg-info/SOURCES.txt
+bloomdata.egg-info/dependency_links.txt
+bloomdata.egg-info/top_level.txt
